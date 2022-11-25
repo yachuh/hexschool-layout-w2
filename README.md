@@ -5,7 +5,7 @@ This repository establishes my homework from the course: [網頁切版直播班 
 Visit here to checkout my work: https://yachuh.github.io/hexschool-layout-w1/
 
 ## About the homework
-[Week 2 - Personal Website](https://rpg.hexschool.com/training/30/task)
+Week 2: Personal Website
 
 ### Skills to practice
 - practice using `background` styles vs. `img` tag
